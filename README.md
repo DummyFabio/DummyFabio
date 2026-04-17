@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Pedro Perez Pereyra
+# 👋 ¡Hola! Soy Fabio Dummy
 
 📍 Jujuy, Argentina · 🎓 Estudiante en UCSE · 🤖 Automatización & Robótica  
 🧑‍💻 Apasionado por la tecnología, la programación y el aprendizaje constante.
@@ -44,8 +44,8 @@
 ---
 
 ## 🤝 Contacto
-- 📫 Email: **[tu-email@gmail.com]**
-- 💼 LinkedIn: **https://linkedin.com/in/[tu-perfil]**
+- 📫 Email: **[DummyFabio@gmail.com]**
+- 💼 LinkedIn: **https://linkedin.com/in/DummyFabio**
 - 🌐 Portfolio (opcional): **[link]**
 
 ---
@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats (opcional)
 > Si querés, reemplazá `TU_USUARIO` por tu usuario real.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DummyFabio&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DummyFabio&layout=compact&theme=tokyonight)
 
 ---
 
